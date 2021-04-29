@@ -1,0 +1,26 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/not-tacos/CHAOS/main/icon.png",
+        "url_png_logo": "https://raw.githubusercontent.com/not-tacos/CHAOS/main/logo.png",
+        "location": "USA",
+        "social": {
+            "telegram_handle": "not_tacos",
+            "discord_handle": "tacos#7334",
+            "github_handle": "not-tacos"
+        },
+        "about": {
+            "me": "tacos",
+            "server": "Professionally hosted in an independent datacenter with redundant 10GBps",
+            "company": "Maybe later"
+        }
+    },
+    "my-pool-ids": {
+        "0": "607a7ae66035ef4bcc840e40985e0805e724888d6a01e15569df597d",
+    },
+    "when-satured-then-recommend": {
+        "0": "607a7ae66035ef4bcc840e40985e0805e724888d6a01e15569df597d",
+    },
+    "telegram-admin-handle": {
+        "0": "not_tacos"
+    }
+}
